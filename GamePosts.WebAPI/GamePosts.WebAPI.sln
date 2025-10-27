@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamePosts.WebAPI", "GamePosts.WebAPI\GamePosts.WebAPI.csproj", "{A62AABFA-6722-4657-AB2A-F1D869798597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{09F5D28C-7D33-4814-9FE7-DB8697A4808F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A62AABFA-6722-4657-AB2A-F1D869798597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62AABFA-6722-4657-AB2A-F1D869798597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62AABFA-6722-4657-AB2A-F1D869798597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62AABFA-6722-4657-AB2A-F1D869798597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F5D28C-7D33-4814-9FE7-DB8697A4808F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F5D28C-7D33-4814-9FE7-DB8697A4808F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F5D28C-7D33-4814-9FE7-DB8697A4808F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F5D28C-7D33-4814-9FE7-DB8697A4808F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
