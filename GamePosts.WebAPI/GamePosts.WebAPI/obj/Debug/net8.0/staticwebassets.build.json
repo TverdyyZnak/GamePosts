@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Lb7+SXIun3VXsP2qw+//XWrogX/TI/pkAKhrzY8KyM8=",
+  "Source": "GamePosts.WebAPI",
+  "BasePath": "_content/GamePosts.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

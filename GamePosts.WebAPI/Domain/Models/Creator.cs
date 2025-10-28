@@ -17,7 +17,7 @@ namespace Domain.Models
         public string director { get; } = String.Empty;
         public byte[] companyImage { get; } = [];
 
-        private Creator(string name, string description, int gamesCount, DateTime date, string director, byte[] companyImage)
+        private Creator(string name, string description, int gamesCount, DateTime? date, string director, byte[] companyImage)
         {
             this.id = Guid.NewGuid();
             this.name = name;
@@ -28,7 +28,7 @@ namespace Domain.Models
             this.companyImage = companyImage;
         }
 
-        public (Creator creator, string error) CreatorCreate(string name, string description, int gamesCount, DateTime date, string director, byte[] companyImage)
+        public static (Creator creator, string error) CreatorCreate(Guid id, string name, string description, int gamesCount, DateTime? date, string director, byte[] companyImage)
         {
             string errorString = string.Empty;
 

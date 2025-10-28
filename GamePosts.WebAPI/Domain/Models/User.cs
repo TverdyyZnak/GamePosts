@@ -25,7 +25,7 @@ namespace Domain.Models
             this.isAdmin = isAdmin;
         }
 
-        public (User user, string error) UserCreate(string userName, string password, string email, string phone, bool isAdmin)
+        public static (User user, string error) UserCreate(Guid id, string userName, string password, string email, string phone, bool isAdmin)
         {
             string errorString = String.Empty;
 

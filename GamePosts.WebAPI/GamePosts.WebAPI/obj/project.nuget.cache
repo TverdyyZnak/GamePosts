@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xkp9wp3QWEA=",
+  "dgSpecHash": "4082c0gwnZI=",
   "success": true,
-  "projectFilePath": "D:\\.Проекты\\GamePosts\\GamePosts.WebAPI\\GamePosts.WebAPI\\GamePosts.WebAPI.csproj",
+  "projectFilePath": "C:\\D\\.Проекты\\GamePosts\\GamePosts.WebAPI\\GamePosts.WebAPI\\GamePosts.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",

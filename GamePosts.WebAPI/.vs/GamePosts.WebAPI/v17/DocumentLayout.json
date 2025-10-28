@@ -1,42 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\",
+  "WorkspaceRootPath": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|d:\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\dataaccess\\repositories\\gameinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|c:\\d\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\dataaccess\\repositories\\creatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\creatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|c:\\d\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\dataaccess\\repositories\\gameinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\gameinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|d:\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\domain\\interfaces\\igameinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\igameinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|d:\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\dataaccess\\gamepostsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|c:\\d\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\dataaccess\\gamepostsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\gamepostsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|d:\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\dataaccess\\entities\\gameinfoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\gameinfoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|d:\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\domain\\models\\gameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|solutionrelative:domain\\models\\gameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|d:\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\dataaccess\\configs\\gameinfoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\configs\\gameinfoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|d:\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|d:\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|c:\\d\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|d:\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\domain\\models\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|c:\\d\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\domain\\interfaces\\igameinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\igameinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|c:\\d\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\dataaccess\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|c:\\d\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\dataaccess\\configs\\gameinfoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\configs\\gameinfoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|c:\\d\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\dataaccess\\entities\\creatorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\creatorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|c:\\d\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\domain\\models\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|solutionrelative:domain\\models\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|c:\\d\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\dataaccess\\entities\\gameinfoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F5D28C-7D33-4814-9FE7-DB8697A4808F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\gameinfoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|c:\\d\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\domain\\models\\gameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|solutionrelative:domain\\models\\gameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|c:\\d\\.\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\gameposts\\gameposts.webapi\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E6C9F96-E836-4E7A-8D15-7F8BAEDA117F}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,15 +58,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "CreatorRepository.cs",
+              "DocumentMoniker": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Repositories\\CreatorRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\CreatorRepository.cs",
+              "ToolTip": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Repositories\\CreatorRepository.cs*",
+              "RelativeToolTip": "DataAccess\\Repositories\\CreatorRepository.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:32:14.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatorEntity.cs",
+              "DocumentMoniker": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Entities\\CreatorEntity.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\CreatorEntity.cs",
+              "ToolTip": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Entities\\CreatorEntity.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\CreatorEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:03:57.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:02:25.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IGameInfoRepository.cs",
-              "DocumentMoniker": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Interfaces\\IGameInfoRepository.cs",
+              "DocumentMoniker": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Interfaces\\IGameInfoRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IGameInfoRepository.cs",
-              "ToolTip": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Interfaces\\IGameInfoRepository.cs",
+              "ToolTip": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Interfaces\\IGameInfoRepository.cs",
               "RelativeToolTip": "Domain\\Interfaces\\IGameInfoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -63,24 +126,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameInfoRepository.cs",
-              "DocumentMoniker": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Repositories\\GameInfoRepository.cs",
+              "DocumentMoniker": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Repositories\\GameInfoRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\GameInfoRepository.cs",
-              "ToolTip": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Repositories\\GameInfoRepository.cs",
+              "ToolTip": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Repositories\\GameInfoRepository.cs",
               "RelativeToolTip": "DataAccess\\Repositories\\GameInfoRepository.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T19:47:45.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GameInfoConfig.cs",
-              "DocumentMoniker": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Configs\\GameInfoConfig.cs",
+              "DocumentMoniker": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Configs\\GameInfoConfig.cs",
               "RelativeDocumentMoniker": "DataAccess\\Configs\\GameInfoConfig.cs",
-              "ToolTip": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Configs\\GameInfoConfig.cs",
+              "ToolTip": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Configs\\GameInfoConfig.cs",
               "RelativeToolTip": "DataAccess\\Configs\\GameInfoConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,11 +152,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "GameInfoEntity.cs",
-              "DocumentMoniker": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Entities\\GameInfoEntity.cs",
+              "DocumentMoniker": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Entities\\GameInfoEntity.cs",
               "RelativeDocumentMoniker": "DataAccess\\Entities\\GameInfoEntity.cs",
-              "ToolTip": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Entities\\GameInfoEntity.cs",
+              "ToolTip": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\Entities\\GameInfoEntity.cs",
               "RelativeToolTip": "DataAccess\\Entities\\GameInfoEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,74 +167,64 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "GamePostsDbContext.cs",
-              "DocumentMoniker": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\GamePostsDbContext.cs",
+              "DocumentMoniker": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\GamePostsDbContext.cs",
               "RelativeDocumentMoniker": "DataAccess\\GamePostsDbContext.cs",
-              "ToolTip": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\GamePostsDbContext.cs",
+              "ToolTip": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\DataAccess\\GamePostsDbContext.cs",
               "RelativeToolTip": "DataAccess\\GamePostsDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T19:06:20.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Models\\User.cs",
+              "DocumentMoniker": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Models\\User.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
-              "ToolTip": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Models\\User.cs",
+              "ToolTip": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Models\\User.cs",
               "RelativeToolTip": "Domain\\Models\\User.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA8wCIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T18:51:55.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "GameInfo.cs",
-              "DocumentMoniker": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Models\\GameInfo.cs",
+              "DocumentMoniker": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Models\\GameInfo.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\GameInfo.cs",
-              "ToolTip": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Models\\GameInfo.cs",
+              "ToolTip": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Models\\GameInfo.cs",
               "RelativeToolTip": "Domain\\Models\\GameInfo.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAYwCwAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T18:49:52.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T18:49:52.315Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Creator.cs",
-              "DocumentMoniker": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Models\\Creator.cs",
+              "DocumentMoniker": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Models\\Creator.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Creator.cs",
-              "ToolTip": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Models\\Creator.cs",
+              "ToolTip": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Models\\Creator.cs",
               "RelativeToolTip": "Domain\\Models\\Creator.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAswDkAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T18:48:28.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Domain",
-              "DocumentMoniker": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Domain.csproj",
+              "DocumentIndex": 11,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "D:\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\D\\.\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\GamePosts\\GamePosts.WebAPI\\Domain\\Domain.csproj",
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-27T18:46:59.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-10-27T18:46:59.871Z"
             }
           ]
         }

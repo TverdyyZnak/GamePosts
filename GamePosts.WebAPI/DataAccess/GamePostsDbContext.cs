@@ -17,5 +17,7 @@ namespace DataAccess
         }
 
         public DbSet<GameInfoEntity> GamesInfo { get; set; }   
+        public DbSet<UserEntity> Users { get; set; }
+        public DbSet<CreatorEntity> Creators { get; set; }
     }
 }

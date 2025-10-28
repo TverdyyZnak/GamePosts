@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZnPKnJ4XsYs=",
+  "dgSpecHash": "+fWednmu3hY=",
   "success": true,
-  "projectFilePath": "D:\\.Проекты\\GamePosts\\GamePosts.WebAPI\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\D\\.Проекты\\GamePosts\\GamePosts.WebAPI\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.10\\microsoft.entityframeworkcore.9.0.10.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.10\\microsoft.entityframeworkcore.abstractions.9.0.10.nupkg.sha512",

@@ -13,6 +13,6 @@ namespace Domain.Interfaces
         Task<User> GetUserById(Guid id);
         Task<Guid> AddUser(User user);
         Task<Guid> DeleteUser(Guid id);
-        Task<Guid> UpdateUser(string userName, string password, string email, string phone, bool isAdmin);
+        Task<Guid> UpdateUser(Guid id, string userName, string password, string email, string phone, bool isAdmin);
     }
 }
